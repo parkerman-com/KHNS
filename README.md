@@ -91,27 +91,32 @@ This Means : You cannot use assets, you cannot Modify or use assets in your own 
 ![image](https://user-images.githubusercontent.com/80014389/168765424-5fd17f87-f07c-471a-9297-dc88d60690f2.png)
 1. **Does it Replace The Stock System?**
 
-Yes it Does.
+   Yes it Does.
 
 2. **Is it based off of IRL systems?**
 
-Yes it is.
+   Yes it is.
 
 3. **Will I need a fresh Install?**
 
-Yes and No, because test is going on.
+   Yes and No, because test is going on.
 
 4. **Is it Compatible with RSS?**
 
-No its not.
+   No its not.
 
 5. **Is it compatible with other planet packs?**
 
-Currently These things are under testing, but from my tests no.
+   Currently These things are under testing, but from my tests no.
 
 6. **Will you add wormholes?**
 
-Maybe in the future
+   Maybe in the future
+
+7. **More Systems**
+
+   YES!, In the Future : Teegarden's Star and Tau Ceti
+   Named Keekarden's and Kerti Urti repectively
 
 ---------------------------------------------------------------------------------------------------
 ## Outro 
