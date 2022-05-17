@@ -66,6 +66,7 @@ KHNS provides Support for
 - EVE
 - Scatterer
 - TUFX
+- Distant Object Enhancement
 - More Coming!
 
 KHNS is compatible with 
