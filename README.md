@@ -81,8 +81,10 @@ KHNS is not compatible with
 ## License
 ![image](https://user-images.githubusercontent.com/80014389/168762721-ffde8045-5a63-4145-b46c-279cb1ad309c.png)
 # ALL RIGHTS RESEREVED
+
 Unless Specified Seperately
 This Means : You cannot use assets, you cannot Modify or use assets in your own mod no matter if its Mixed and matched, These assets are of KHNS and KHNS ONLY, But Some parts of It have a Different License Like the PQS materials are free, licensed by CC-BY-SA, from [](https://polyhaven.com/), and the Skybox which is sourced from [](https://www.solarsystemscope.com/textures/) Stars + Milky Way 8K texture. I only grant you the permission to edit the `_KHNS-Setting.cfg`
+
 ---------------------------------------------------------------------------------------------------
 ## FAQs
 ![image](https://user-images.githubusercontent.com/80014389/168765424-5fd17f87-f07c-471a-9297-dc88d60690f2.png)
