@@ -110,5 +110,5 @@ Special Thanks to StarCrusher96 For His Immense Help in Advises, Debugging and C
 it would have been impossible without you guys, specially the testers and internal dev team. Hope you all Enjoy the Mod!
 You can contact me Through Discord or Fourmns
 Links :
-[](https://discord.com/invite/TmtG4zFqgH)
-[](https://forum.kerbalspaceprogram.com/index.php?/topic/207835-1121-1123-very-slow-progress-khns-kerbols-humble-neighboring-stars/)
+[Discord](https://discord.com/invite/TmtG4zFqgH)
+[Fourmn](https://forum.kerbalspaceprogram.com/index.php?/topic/207835-1121-1123-very-slow-progress-khns-kerbols-humble-neighboring-stars/)
