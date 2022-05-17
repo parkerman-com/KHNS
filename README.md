@@ -108,7 +108,12 @@ Maybe in the future
 This mod is the mark of my very first 99.99% inhouse done mod, with basically everything I learnt into it, I would appreciate constructive feedback,
 Special Thanks to StarCrusher96 For His Immense Help in Advises, Debugging and Configging help, and at times even helping in Texturing and I highly appreciate his mentoring and support towards me and my Team and the overall The KHNS mod, Many other People helped me over this mod so Thank you everyone for Support, 
 it would have been impossible without you guys, specially the testers and internal dev team. Hope you all Enjoy the Mod!
-You can contact me Through Discord or Fourmns
+You can contact me Through Discord or Fourmns.
+
 Links :
+
 [Discord](https://discord.com/invite/TmtG4zFqgH)
+
 [Fourmn](https://forum.kerbalspaceprogram.com/index.php?/topic/207835-1121-1123-very-slow-progress-khns-kerbols-humble-neighboring-stars/)
+
+--------------------------------------------------------------------------------------------------
